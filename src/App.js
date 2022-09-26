@@ -6,10 +6,10 @@ import Navbar from './Components/Share/Navbar';
 
 function App() {
   return (
-    <div className="App  border border-2 ">
+    <div className="App shadow-lg">
       <Navbar></Navbar>
       <Routes>
-        <Route path='home' element={<Home></Home>} />
+        <Route path='/home' element={<Home></Home>} />
     </Routes>
     </div>
   );
