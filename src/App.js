@@ -6,7 +6,7 @@ import Navbar from './Components/Share/Navbar';
 
 function App() {
   return (
-    <div className="App container">
+    <div className="App  border border-2 ">
       <Navbar></Navbar>
       <Routes>
         <Route path='home' element={<Home></Home>} />
