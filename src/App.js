@@ -9,7 +9,7 @@ function App() {
     <div className="App shadow-lg">
       <Navbar></Navbar>
       <Routes>
-        <Route path='/home' element={<Home></Home>} />
+        <Route path='/' element={<Home></Home>} />
     </Routes>
     </div>
   );

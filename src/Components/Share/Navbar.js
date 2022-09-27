@@ -1,13 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom'
 import logo from '../../images/logo/logo.png'
+import Button from './Button';
 
 
 
 const Navbar = () => {
 
     const menuItems = <>
-    <li><Link to='/home'>Home</Link></li>
+    <li><Link to='/'>Home</Link></li>
     <li><Link to='/'>Fruits</Link></li>
     <li><Link to='/'>Review</Link></li>
     <li><Link to='/'>About</Link></li>
@@ -26,7 +27,7 @@ const Navbar = () => {
                             {menuItems}
                         </ul>
                     </div>
-                    <Link to='/home'><img src={logo} alt='' /></Link>
+                    <Link to='/'><img src={logo} alt='' /></Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal p-0 font-semibold uppercase">
@@ -47,7 +48,7 @@ const Navbar = () => {
                                 <span className="font-bold text-lg">8 Items</span>
                                 <span className="text-info">Subtotal: $999</span>
                                 <div className="card-actions">
-                                    <button className="btn btn-primary btn-block">View cart</button>
+                                    <Button>View Cart</Button>
                                 </div>
                             </div>
                         </div>
