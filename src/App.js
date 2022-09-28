@@ -8,8 +8,10 @@ function App() {
   return (
     <div className="App shadow-lg">
       <Navbar></Navbar>
+     
       <Routes>
         <Route path='/' element={<Home></Home>} />
+
     </Routes>
     </div>
   );

@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Pretium Euismod Dui Fermentum Quis",
+        "img": "https://i.ibb.co/r3nbn7f/1-543x543.jpg",
+        "price": 10,
+        "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "availability": "In-Stock"
+    },
+    {
+        "id": 2,
+        "name": "Pretium Euismod Dui Fermentum Quis",
+        "img": "https://i.ibb.co/r3nbn7f/1-543x543.jpg",
+        "price": 10,
+        "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "availability": "In-Stock"
+    },
+    {
+        "id": 3,
+        "name": "Pretium Euismod Dui Fermentum Quis",
+        "img": "https://i.ibb.co/r3nbn7f/1-543x543.jpg",
+        "price": 10,
+        "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "availability": "In-Stock"
+    },
+    {
+        "id": 4,
+        "name": "Pretium Euismod Dui Fermentum Quis",
+        "img": "https://i.ibb.co/r3nbn7f/1-543x543.jpg",
+        "price": 10,
+        "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "availability": "In-Stock"
+    },
+    {
+        "id": 5,
+        "name": "Pretium Euismod Dui Fermentum Quis",
+        "img": "https://i.ibb.co/r3nbn7f/1-543x543.jpg",
+        "price": 10,
+        "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "availability": "In-Stock"
+    },
+    {
+        "id": 6,
+        "name": "Pretium Euismod Dui Fermentum Quis",
+        "img": "https://i.ibb.co/r3nbn7f/1-543x543.jpg",
+        "price": 10,
+        "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "availability": "In-Stock"
+    },
+    {
+        "id": 7,
+        "name": "Pretium Euismod Dui Fermentum Quis",
+        "img": "https://i.ibb.co/r3nbn7f/1-543x543.jpg",
+        "price": 10,
+        "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "availability": "In-Stock"
+    },
+    {
+        "id": 8,
+        "name": "Pretium Euismod Dui Fermentum Quis",
+        "img": "https://i.ibb.co/r3nbn7f/1-543x543.jpg",
+        "price": 10,
+        "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "availability": "In-Stock"
+    },
+    {
+        "id": 9,
+        "name": "Pretium Euismod Dui Fermentum Quis",
+        "img": "https://i.ibb.co/r3nbn7f/1-543x543.jpg",
+        "price": 10,
+        "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "availability": "In-Stock"
+    },
+    {
+        "id": 10,
+        "name": "Pretium Euismod Dui Fermentum Quis",
+        "img": "https://i.ibb.co/r3nbn7f/1-543x543.jpg",
+        "price": 10,
+        "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "availability": "In-Stock"
+    },
+    {
+        "id": 11,
+        "name": "Pretium Euismod Dui Fermentum Quis",
+        "img": "https://i.ibb.co/r3nbn7f/1-543x543.jpg",
+        "price": 10,
+        "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "availability": "In-Stock"
+    }
+]
