@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import { Carousel } from 'react-responsive-carousel';
 import banner from '../../images/banner/banner-service-691x470.jpg'
-
 import Button from '../Share/Button';
+import "~slick-carousel/slick/slick.css"; 
+import "~slick-carousel/slick/slick-theme.css";
 const Banner = ({children}) => {
     const [banners, setBanners] = useState([])
     useEffect(() => {
@@ -10,6 +11,14 @@ const Banner = ({children}) => {
             .then(res => res.json())
         .then(data=>setBanners(data))
     },[])
+
+    const settings = {
+        dots: true,
+        infinite: true,
+        speed: 500,
+        slidesToShow: 1,
+        slidesToScroll: 1
+      };
     return (
     
         <>
